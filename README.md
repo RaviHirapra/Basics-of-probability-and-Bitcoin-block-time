@@ -24,6 +24,9 @@ Let's say your experiment is tossing a coin. Since it is equally likely that eit
 
 If I toss a coin 10 time what is the probabilty that I will get HTHTHTHTHT
 
+WORK IN PROGRESS
+
+----
 In Bitcoin, It takes on average every 10 minutes for a block to mine. Lets we assume that block propagation time is zero and once the block is reached to all other miners, it takes zero amount of time to verify the block. This assumption will make modeling simple. Since 10 minutes is way bigger than a few hundred milliseconds (the time it takes to propagate and varify a block), this assumption will not affect our modeling that much. 
 We can think of a hash as a huge dice with a large number of faces. 
 
